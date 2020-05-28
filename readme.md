@@ -1,4 +1,5 @@
+# Analysing Cafes in Nur-Sultan
 # In this project: 
-* At first, i scrapped data (cafe and restaurants in Nur-Sultan ) from the web
-* Then cleaned the data
-* And finally made looking pretty nice plots
+* 1) Scrapping data (cafe and restaurants in Nur-Sultan ) from the web
+* 2) Dealing with raw data
+* 3) Analysis and visualizations for possible isights
